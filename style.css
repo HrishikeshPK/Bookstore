@@ -1,0 +1,69 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color: rgba(184, 135, 11, 0.356);
+}
+
+h1 {
+    font-family: "Grey Qo", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+h2 {
+    font-family: "Edu VIC WA NT Beginner", cursive;
+    font-weight: 400;
+    font-style: normal;
+   
+}
+h3{
+    color: black;
+    background-color: white;
+}
+.carousal {
+    width: 500px;
+    margin-left: 509px;
+    background-color: darkgoldenrod;
+}
+.title{
+    color: white;
+    margin-right: 140px;
+}
+#about{
+    background-color: azure;
+}
+.about{
+    width: 100%;
+    height: 1163px;
+    background-color: aliceblue;
+    font-size: larger;
+}
+.abt-para{
+    font-size: larger;
+    justify-content: center;
+}
+.abt-h1{
+    font-size: xx-large;
+}
+.abt-img{
+    float: right;
+    height: 300px;
+}   
+
+.Contact-h1{
+    font-size: xx-large;
+}
+.contact{
+    height: 400px;
+    width: 33%;
+    /* background-color: black; */
+    border: 2px solid white;
+    float: left;
+    background-color: bisque;
+} 
